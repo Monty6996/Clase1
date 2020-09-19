@@ -1,1 +1,41 @@
-p { color: blue; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+body{
+    background-color: #eee;
+}
+
+.caja{
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    border-radius: 4px;
+    border-top: solid 0px;
+}
+
+.cabecera{
+    padding: 10px;
+}
+
+.contenido{
+    padding: 10px;
+    border-top: solid 1px #eee;
+}
+
+
+.pie{
+    padding: 10px;
+    border-top: solid 1px #eee;
+}
+
+.botona{
+    background-color: #0090ff;
+    padding: 5px;
+    border: 0px;
+    color: white;
+}
+
+.botonc{
+    background-color: #aaa;
+    padding: 5px;
+    border: 0px;
+    color: white;
+}
