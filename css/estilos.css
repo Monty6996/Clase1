@@ -1,12 +1,12 @@
 body{
-    background-color: #eee;
+    background-color:#A9CAEF;
 }
 
 .caja{
-    background-color: white;
+    background-color:whitesmoke;
     border-style: solid;
     border-width: 1px;
-    border-color: #ccc;
+    border-color: #5495DF;
     border-radius: 4px;
     border-top: solid 0px;
 }
@@ -17,13 +17,13 @@ body{
 
 .contenido{
     padding: 10px;
-    border-top: solid 1px #eee;
+    border-top: solid 1px #5495DF;
 }
 
 
 .pie{
     padding: 10px;
-    border-top: solid 1px #eee;
+    border-top: solid 1px #5495DF;
 }
 
 .botona{
@@ -34,8 +34,8 @@ body{
 }
 
 .botonc{
-    background-color: #aaa;
+    background-color: #2161AB;
     padding: 5px;
     border: 0px;
-    color: white;
+    color: whitesmoke;
 }
